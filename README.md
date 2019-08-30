@@ -23,3 +23,10 @@ MongoDB, Spark, SparkML
 ### Python Libraries
 Natural Language Processing Toolkit(NLTK), NumPy, Matplotlib, WordCloud
 
+## Models Used
+1. N-grams
+2. TF-IDF
+3. LDA
+
+## Result
+![Alt text](C:/Users/preks/Downloads/algorithmsgraph (1)?raw=true "Title")
