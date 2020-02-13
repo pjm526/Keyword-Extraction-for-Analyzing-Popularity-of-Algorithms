@@ -18,9 +18,8 @@ of the top machine learning conferences in the world. This dataset includes the 
 paper text for all NIPS papers to date (ranging from the first 1987 conference to the 2016 conference).
 
 ## Technologies Used
-1. MongoDB
-2. Spark
-3. SparkML
+1. Spark
+2. SparkML
 
 ### Python Libraries
 1. Natural Language Processing Toolkit(NLTK)
