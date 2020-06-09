@@ -12,7 +12,7 @@ Processing (NLP), keyword extraction has evolved into being effective as well as
 In this project, we’ll be using SparkML on a collection of research papers to extract keywords in order to deduce popularity of Algorithms used.
 
 ## Data
-In this project, we will be extracting keywords from a dataset that contains about 7939 research papers.
+In this project, we will be extracting keywords from a dataset that contains about 10,000 research papers.
 The dataset is from *Kaggle - (NIPS Paper)2. Neural Information Processing Systems (NIPS)* is one
 of the top machine learning conferences in the world. This dataset includes the title and abstracts and
 paper text for all NIPS papers to date (ranging from the first 1987 conference to the 2016 conference).
